@@ -1,3 +1,5 @@
+(note: the frontend files are places individually in the folder)
+(files docker-compose and dockerlink.txt are outside of the frontend and backend folders)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
